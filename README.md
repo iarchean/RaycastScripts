@@ -15,8 +15,8 @@ git clone https://github.com/iarchean/RaycastScripts.git
 
 | Name | Usage | Descriptions |
 | :-----| :---- | :---- |
-| IP | `IP` `ip.add.re.ss` | Shows the information of IP address |
-| IPCALC | `IPCALC` `ip.add.re.ss` `mask` | IP netmask calculator  |
+| [IP](#-ip) | `IP` `ip.add.re.ss` | Shows the information of IP address |
+| [IPCALC](#-ipcalc) | `IPCALC` `ip.add.re.ss` `mask` | IP netmask calculator  |
 
 More scripts continuously updating
 
