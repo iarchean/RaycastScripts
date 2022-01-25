@@ -8,7 +8,9 @@ Some Raycast Scripts for personal use.
 ```
 git clone https://github.com/iarchean/RaycastScripts.git
 ```
-2. add `RaycastScripts` folder to your Raycast in "Raycast Preferences"
+2. add `RaycastScripts` folder to your Raycast in `Raycast Preferences` ›› `Extensions` ›› `+` ›› `Add Scritp Directory`
+
+![src](https://tencentcloud-1256172257.cos.ap-tokyo.myqcloud.com/SCR-00040125-ntp.png)
 
 
 ### Script list
@@ -30,6 +32,7 @@ Shows the information of IP address, if not specifed, shows your macOS's interna
 > ### Notice
 > You'd better register an account at [ipinfo.io](ipinfo.io) to get a free API Token and fill it in the script to fetch more queries per day.
 
+![IP](https://tencentcloud-1256172257.cos.ap-tokyo.myqcloud.com/IP.jpg)
 
 ## 🖥 IPCALC
 
@@ -38,3 +41,4 @@ ipcalc is a network mask calculator writen by [@joshdick](http://jodies.de/ipcal
 ### Usage
 
 `IPCALC` `IP` `MASK` or `IPCALC` `IP-CIDR`
+![ipcalc](https://tencentcloud-1256172257.cos.ap-tokyo.myqcloud.com/ipcalc.png)
